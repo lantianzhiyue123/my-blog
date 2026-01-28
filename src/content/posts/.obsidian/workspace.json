@@ -11,14 +11,14 @@
             "id": "e1c2a20dc4cac969",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "split-diff-view",
               "state": {
-                "file": "draft.md",
-                "mode": "source",
-                "source": false
+                "aFile": "src/content/posts/draft.md",
+                "bFile": "src/content/posts/draft.md",
+                "aRef": ""
               },
-              "icon": "lucide-file",
-              "title": "draft"
+              "icon": "diff",
+              "title": "Diff: draft  (Working Tree)"
             }
           }
         ]
@@ -171,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "lucide-ghost",
-              "title": "git-view"
+              "icon": "git-pull-request",
+              "title": "Source Control"
             }
           }
         ],
@@ -180,8 +180,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -197,9 +196,14 @@
   },
   "active": "e1c2a20dc4cac969",
   "lastOpenFiles": [
+    "Templates/博客模板.md",
+    "video.md",
+    "markdown-tutorial.md",
     "markdown-extended.md",
-    "draft.md",
     "encrypted-post.md",
+    "draft.md",
+    "未命名.md",
+    "Templates",
     "posts/encrypted-post.md",
     "posts/video.md",
     "posts/未命名.md",
@@ -221,11 +225,7 @@
     "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 2 几类特殊矩阵.md",
     "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 1 行列式计算方法.md",
     "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/2.线性代数.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/1.高等数学.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 1 极限的计算方法.md",
     "日记/26-1",
-    "大三上/通信网/7第七章-分组交换网【网络层】.md",
-    "Templates/日记模板.md",
     "Templates",
     "大三上",
     "大三上/通信网/背诵/assets/记住好吗",
@@ -234,7 +234,6 @@
     "大三上/通信网/背诵/assets/结束/file-20260123151017527.png",
     "通信网/assets/结束",
     "大三上/通信网/背诵/assets/记住好吗/file-20260123151021840.png",
-    "通信网/assets/记住好吗",
     "大三上/通信网/assets/1.21/image.png",
     "大三上/计算机组成原理/assets/图/image.png",
     "大三上/计算机组成原理/assets/图/image-9.png",

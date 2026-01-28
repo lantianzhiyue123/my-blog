@@ -1,9 +1,15 @@
 ---
-title: Draft Example
-published: 2022-07-01
-tags: [Markdown, Blogging, Demo]
-category: Examples
-draft: true
+title: 这里写你的文章标题
+published: 2026-01-28
+tags:
+  - Markdown
+  - Blogging
+  - Demo
+  - 随笔
+category: 随意
+draft: false
+description: 这里写一两句简单的文章介绍
+image: ""
 ---
 
 # This Article is a Draft
