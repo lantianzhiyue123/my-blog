@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "video.md",
+                "file": "Templates/博客模板.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "video"
+              "title": "博客模板"
             }
           }
         ]
@@ -194,10 +194,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "cbdb1fc69780be6c",
+  "active": "e1c2a20dc4cac969",
   "lastOpenFiles": [
-    "未命名.md",
     "video.md",
+    "python学习",
+    "未命名.md",
     "markdown-tutorial.md",
     "encrypted-post.md",
     "draft.md",
@@ -224,7 +225,6 @@
     "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 19 曲线积分计算.md",
     "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 2 几类特殊矩阵.md",
     "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 1 行列式计算方法.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/2.线性代数.md",
     "日记/26-1",
     "Templates",
     "大三上",
@@ -232,7 +232,6 @@
     "大三上/通信网/背诵/assets/结束",
     "大三上/通信网/背诵/assets",
     "大三上/通信网/背诵/assets/结束/file-20260123151017527.png",
-    "通信网/assets/结束",
     "大三上/通信网/背诵/assets/记住好吗/file-20260123151021840.png",
     "大三上/通信网/assets/1.21/image.png",
     "大三上/计算机组成原理/assets/图/image.png",
