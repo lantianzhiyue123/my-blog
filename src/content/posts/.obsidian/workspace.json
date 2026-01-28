@@ -11,14 +11,14 @@
             "id": "e1c2a20dc4cac969",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "src/content/posts/draft.md",
-                "bFile": "src/content/posts/draft.md",
-                "aRef": ""
+                "file": "video.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: draft  (Working Tree)"
+              "icon": "lucide-file",
+              "title": "video"
             }
           }
         ]
@@ -194,15 +194,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c2a20dc4cac969",
+  "active": "cbdb1fc69780be6c",
   "lastOpenFiles": [
-    "Templates/博客模板.md",
+    "未命名.md",
     "video.md",
     "markdown-tutorial.md",
-    "markdown-extended.md",
     "encrypted-post.md",
     "draft.md",
-    "未命名.md",
+    "markdown-extended.md",
+    "Templates/博客模板.md",
     "Templates",
     "posts/encrypted-post.md",
     "posts/video.md",
