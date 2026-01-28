@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "ebedebbaf167f121",
+    "type": "split",
+    "children": [
+      {
+        "id": "f911b2e5a85fe72a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e1c2a20dc4cac969",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "日记/2026-01-26 星期一.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2026-01-26 星期一"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "0638e12689c5683d",
+    "type": "split",
+    "children": [
+      {
+        "id": "3b89e925d276cea0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "cbdb1fc69780be6c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabeticalReverse",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "文件列表"
+            }
+          },
+          {
+            "id": "ac606ccbdcccfc9d",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "搜索"
+            }
+          },
+          {
+            "id": "713eabb17d948ba2",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "书签"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200,
+    "collapsed": true
+  },
+  "right": {
+    "id": "2df85ce3f9c6cba4",
+    "type": "split",
+    "children": [
+      {
+        "id": "5c53af1c4a776c89",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "af81c28de4809742",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "模电复习.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "模电复习 的反向链接列表"
+            }
+          },
+          {
+            "id": "2a604129cd4ef6a3",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "仿真软件/ADS/LNA.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "LNA 的出链列表"
+            }
+          },
+          {
+            "id": "414954be834aad01",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "标签"
+            }
+          },
+          {
+            "id": "58ffbc3ebb997eae",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "添加笔记属性"
+            }
+          },
+          {
+            "id": "4a184756864c733d",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "日记/2026-01-26 星期一.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "2026-01-26 星期一 的大纲"
+            }
+          },
+          {
+            "id": "a57c2fe7ce76febd",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:新建数据库": false,
+      "switcher:打开快速切换": false,
+      "graph:查看关系图谱": false,
+      "canvas:新建白板": false,
+      "daily-notes:打开/创建今天的日记": false,
+      "templates:插入模板": false,
+      "command-palette:打开命令面板": false,
+      "obsidian-git:Open Git source control": false
+    }
+  },
+  "active": "a57c2fe7ce76febd",
+  "lastOpenFiles": [
+    "日记/未命名.md",
+    "日记/2026-01-26 星期一.md",
+    "日记/26-1/2026-01-23 星期五.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 8 定积分特性.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 10 一阶微分方程.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 14 空间解析几何.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 15 偏导数的计算方法.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 19 曲线积分计算.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 2 几类特殊矩阵.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 1 行列式计算方法.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/2.线性代数.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/1.高等数学.md",
+    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 1 极限的计算方法.md",
+    "日记/26-1",
+    "大三上/通信网/7第七章-分组交换网【网络层】.md",
+    "Templates/日记模板.md",
+    "大三上/通信原理/第6章 信号空间分析.md",
+    "Templates",
+    "大三上",
+    "未命名.md",
+    "未命名.base",
+    "未命名 1.base",
+    "大三上/通信网/背诵/结束.md",
+    "大三上/通信网/背诵/assets/记住好吗",
+    "大三上/通信网/背诵/assets/结束",
+    "大三上/通信网/背诵/assets",
+    "大三上/通信网/背诵/assets/结束/file-20260123151017527.png",
+    "通信网/assets/结束",
+    "大三上/通信网/1.21.md",
+    "大三上/通信网/背诵/记住好吗.md",
+    "大三上/通信网/背诵/assets/记住好吗/file-20260123151021840.png",
+    "通信网/assets/记住好吗",
+    "大三上/通信网/assets/1.21/image.png",
+    "大三上/通信网/1.20.md",
+    "大三上/通信网/6第六章-介质访问控制（MAC）与局域网.md",
+    "大三上/通信网/5第五章-数据链路层.md",
+    "大三上/通信网/4物理层与传输基础.md",
+    "大三上/通信网/背诵/U5.md",
+    "大三上/通信网/背诵/U6.md",
+    "大三上/计算机组成原理/assets/图/image.png",
+    "大三上/计算机组成原理/assets/图/image-9.png",
+    "大三上/计算机组成原理/assets/图/image-8.png",
+    "大三上/计算机组成原理/assets/图/image-7.png",
+    "大三上/计算机组成原理/assets/图/image-6.png",
+    "大三上/计算机组成原理/assets/图/image-5.png",
+    "大三上/计算机组成原理/assets/图/image-4.png"
+  ]
+}
