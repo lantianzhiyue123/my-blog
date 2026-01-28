@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "日记/2026-01-26 星期一.md",
+                "file": "draft.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2026-01-26 星期一"
+              "title": "draft"
             }
           }
         ]
@@ -78,8 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 200
   },
   "right": {
     "id": "2df85ce3f9c6cba4",
@@ -172,8 +171,8 @@
             "state": {
               "type": "git-view",
               "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
+              "icon": "lucide-ghost",
+              "title": "git-view"
             }
           }
         ],
@@ -181,7 +180,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -195,8 +195,21 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a57c2fe7ce76febd",
+  "active": "e1c2a20dc4cac969",
   "lastOpenFiles": [
+    "markdown-extended.md",
+    "draft.md",
+    "encrypted-post.md",
+    "posts/encrypted-post.md",
+    "posts/video.md",
+    "posts/未命名.md",
+    "posts/markdown-extended.md",
+    "posts/draft.md",
+    "posts/markdown-tutorial.md",
+    "spec/friends.md",
+    "spec/about.md",
+    "未命名.base",
+    "未命名 1.base",
     "日记/未命名.md",
     "日记/2026-01-26 星期一.md",
     "日记/26-1/2026-01-23 星期五.md",
@@ -213,29 +226,16 @@
     "日记/26-1",
     "大三上/通信网/7第七章-分组交换网【网络层】.md",
     "Templates/日记模板.md",
-    "大三上/通信原理/第6章 信号空间分析.md",
     "Templates",
     "大三上",
-    "未命名.md",
-    "未命名.base",
-    "未命名 1.base",
-    "大三上/通信网/背诵/结束.md",
     "大三上/通信网/背诵/assets/记住好吗",
     "大三上/通信网/背诵/assets/结束",
     "大三上/通信网/背诵/assets",
     "大三上/通信网/背诵/assets/结束/file-20260123151017527.png",
     "通信网/assets/结束",
-    "大三上/通信网/1.21.md",
-    "大三上/通信网/背诵/记住好吗.md",
     "大三上/通信网/背诵/assets/记住好吗/file-20260123151021840.png",
     "通信网/assets/记住好吗",
     "大三上/通信网/assets/1.21/image.png",
-    "大三上/通信网/1.20.md",
-    "大三上/通信网/6第六章-介质访问控制（MAC）与局域网.md",
-    "大三上/通信网/5第五章-数据链路层.md",
-    "大三上/通信网/4物理层与传输基础.md",
-    "大三上/通信网/背诵/U5.md",
-    "大三上/通信网/背诵/U6.md",
     "大三上/计算机组成原理/assets/图/image.png",
     "大三上/计算机组成原理/assets/图/image-9.png",
     "大三上/计算机组成原理/assets/图/image-8.png",

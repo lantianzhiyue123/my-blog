@@ -1,10 +1,10 @@
 [
-  "obsidian-custom-attachment-location",
-  "highlightr-plugin",
-  "consistent-attachments-and-links",
   "better-export-pdf",
+  "consistent-attachments-and-links",
+  "obsidian-custom-attachment-location",
+  "obsidian-git",
+  "highlightr-plugin",
   "image-converter",
-  "multi-column-markdown",
   "obsidian-linter",
-  "obsidian-git"
+  "multi-column-markdown"
 ]
