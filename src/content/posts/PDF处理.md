@@ -1,7 +1,7 @@
 ---
 title: pdf拆分_python脚本
 published: 2026-01-28
-description: 这里写一两句简单的文章介绍
+description: 根据书签目录，将 PDF 按章节拆分成多个独立的 PDF 文件
 image: ""
 category: python
 tags:
