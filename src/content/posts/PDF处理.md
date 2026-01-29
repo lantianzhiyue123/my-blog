@@ -241,7 +241,7 @@ class Document:
 open = Document  # 给 Document 类起了一个外号叫 open  
 所以说 open Document 都是类，而 doc 是定义的对象
 
-
+```
 doc (Document 对象)
 │
 ├── 属性（Properties）- 用 @ 符号标记
@@ -261,6 +261,8 @@ doc (Document 对象)
     ├── doc[0]: Page 对象    # 第一页
     ├── doc[1]: Page 对象    # 第二页
     └── doc[n]: Page 对象    # 第 n 页
+```
+
 ## 四、创建列表 List
 ```
 # ❌ 普通写法（冗长）
