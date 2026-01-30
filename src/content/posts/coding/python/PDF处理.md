@@ -1,6 +1,6 @@
 ---
 title: pdf拆分_python脚本
-published: 2026-01-28
+published: 2026-01-29
 description: 根据书签目录，将 PDF 按章节拆分成多个独立的 PDF 文件
 image: ""
 category: python
@@ -198,10 +198,11 @@ except Exception as e:
 ```
 📊 不同错误情况的输出
 错误情况	输出内容
-文件不存在	[Errno 2] No such file or directory: '...'
-文件被占用	[Errno 13] Permission denied: '...'
-文件损坏	cannot open damaged file
-其他错误	具体的 PyMuPDF 错误信息
+
+文件不存在	[Errno 2] No such file or directory: '...'  
+文件被占用	[Errno 13] Permission denied: '...'  
+文件损坏	cannot open damaged file  
+其他错误	具体的 PyMuPDF 错误信息  
 # 🎯 为什么要打印 {e}？
 
 - ✓ **帮助调试**：知道具体是什么错误
