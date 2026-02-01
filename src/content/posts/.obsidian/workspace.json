@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Templates/博客模板.md",
+                "file": "guide/index.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "博客模板"
+              "title": "index"
             }
           }
         ]
@@ -194,16 +194,29 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1c2a20dc4cac969",
+  "active": "cbdb1fc69780be6c",
   "lastOpenFiles": [
     "video.md",
-    "python学习",
+    "guide/index.md",
+    "guide/cover.webp",
     "未命名.md",
+    "26美赛A/修改建议.md",
+    "26美赛A/第三天.md",
+    "Templates/日记模板.md",
+    "26美赛A/写作提示.md",
+    "26美赛A/数据及代码V4.md",
+    "26美赛A/公式拆解.md",
+    "26美赛A/代码及数据V3.md",
+    "26美赛A/代码及数据V2.md",
+    "26美赛A/代码及数据.md",
+    "26美赛A/参数要求.md",
+    "26美赛A/参数获取.md",
+    "Templates/博客模板.md",
+    "python学习",
     "markdown-tutorial.md",
     "encrypted-post.md",
     "draft.md",
     "markdown-extended.md",
-    "Templates/博客模板.md",
     "Templates",
     "posts/encrypted-post.md",
     "posts/video.md",
@@ -211,20 +224,8 @@
     "posts/markdown-extended.md",
     "posts/draft.md",
     "posts/markdown-tutorial.md",
-    "spec/friends.md",
-    "spec/about.md",
     "未命名.base",
     "未命名 1.base",
-    "日记/未命名.md",
-    "日记/2026-01-26 星期一.md",
-    "日记/26-1/2026-01-23 星期五.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 8 定积分特性.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 10 一阶微分方程.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 14 空间解析几何.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 15 偏导数的计算方法.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/高数部分/版块 19 曲线积分计算.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 2 几类特殊矩阵.md",
-    "考研数学(一,二）解题框架/考研数学(一,二）解题框架/解题框架/线代部分/版块 1 行列式计算方法.md",
     "日记/26-1",
     "Templates",
     "大三上",
@@ -239,7 +240,6 @@
     "大三上/计算机组成原理/assets/图/image-8.png",
     "大三上/计算机组成原理/assets/图/image-7.png",
     "大三上/计算机组成原理/assets/图/image-6.png",
-    "大三上/计算机组成原理/assets/图/image-5.png",
-    "大三上/计算机组成原理/assets/图/image-4.png"
+    "大三上/计算机组成原理/assets/图/image-5.png"
   ]
 }
